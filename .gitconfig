@@ -1,0 +1,25 @@
+[user]
+	name = Victor Jacek
+	email = victorjacek@gmail.com
+[color]
+	ui = true
+[pull]
+	rebase = true
+[push]
+	default = current
+[fetch]
+	prune = true
+[core]
+	autocrlf = false
+	preloadindex = true
+	editor = emacs
+[log]
+	decorate = short
+[http]
+	sslVerify = false
+[credential]
+	helper = osxkeychain
+[rebase]
+	instructionFormat = (%an <%ae) %s
+[pack]
+	useSparse = true
