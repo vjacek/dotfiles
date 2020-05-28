@@ -9,7 +9,9 @@ export NVM_DIR="$HOME/.nvm"
 alias gs='git status'
 alias gl='git log'
 alias gd='git diff'
+alias gd1='~/codebase/dotfiles/git-diff-first-modified-file.sh'
 alias ga='git add'
+alias ga1='~/codebase/dotfiles/git-add-first-modified-file.sh'
 alias gc='git commit -m'
 
 # Supercuts
