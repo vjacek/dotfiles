@@ -23,11 +23,8 @@ alias pngr='python ~/codebase/pngr/pngr.py'
 alias track='python ~/codebase/dotfiles/track.py'
 alias lsa='ls -alh'
 alias emacs='emacs -nw'
-alias python='python3'
 
 # Wayfair
-alias wf2='wf'
-alias wf='wf3'
 alias cdah='cd /wayfair/data/codebase/php/applications/customer-experience/service-agent-hub'
 
 export PATH=/Users/vjacek/bin:$PATH # needed for wf3
