@@ -7,10 +7,8 @@ alias pip='pip3'
 
 alias gs='git status'
 alias gl='git log'
-alias gd='git diff'
-alias gd1='~/codebase/dotfiles/git-diff-first-modified-file.sh'
-alias ga='git add'
-alias ga1='~/codebase/dotfiles/git-add-first-modified-file.sh'
+alias gd='~/codebase/dotfiles/git-diff-modified-file.sh'
+alias ga='~/codebase/dotfiles/git-add-modified-file.sh'
 alias gc='git commit -m'
 
 # Supercuts
